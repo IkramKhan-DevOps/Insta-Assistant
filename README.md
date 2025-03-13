@@ -16,14 +16,6 @@ Instagram is a practice project of __MARK-I__ the project focuses on __Instagram
 * GUI based application (upcoming)[CUSTOMER_REQUIREMENT]
 * Mobile application (upcoming)[CUSTOMER_REQUIREMENT]
 
-
-## CONTACT
-ikram.khan0762@gmail.com<br>
-ikram.khan32@yahoo.com<br><br>
-
-+92 300 584 961 3<br>
-+92 341 938 728 3
-
 ## HOW TO RUN LOCALLY
 ```
 cd directory
